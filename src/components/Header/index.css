@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.logo_contianer {
+  display: flex;
+  align-items: center;
+}
+.nav_links {
+  color: #6d396b;
+  margin: 5px;
+  font-size: 22px;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+}
